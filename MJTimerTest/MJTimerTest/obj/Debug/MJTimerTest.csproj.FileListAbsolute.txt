@@ -1,0 +1,12 @@
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\bin\Debug\MJTimerTest.exe.config
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\bin\Debug\MJTimerTest.exe
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\bin\Debug\MJTimerTest.pdb
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.csprojAssemblyReference.cache
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.Form1.resources
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.Properties.Resources.resources
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.UserControl1.resources
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.csproj.GenerateResource.cache
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.csproj.CoreCompileInputs.cache
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.exe
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\obj\Debug\MJTimerTest.pdb
+C:\Users\Belltone\source\repos\MJTimerTest\MJTimerTest\bin\Debug\click.wav
